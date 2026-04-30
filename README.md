@@ -2,8 +2,7 @@
 
 A captivating, high-performance 3D space wormhole experience built with React, Three.js, and React Three Fiber. Travel endlessly through a beautifully rendered procedural spacetime tunnel featuring stellar blue and deep space purple neon effects against a stark black void.
 
-![Project Preview](./assets/project-preview.svg) 
-*(Note: Please upload your attached project picture to the `public/assets` folder and update this path if needed.)*
+![Project Preview](./assets/project-preview.png) 
 
 ## Features 🚀
 
