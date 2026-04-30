@@ -47,7 +47,3 @@ You'll need Node.js installed on your local machine.
 ## Customization 🎨
 
 The core shader properties of the wormhole can be easily styled from `src/components/Tunnel.tsx`. Specifically, adjust the `uColor1`, `uColor2`, and `uBgColor` uniform values to instantly change the visual scheme of the tunnel geometry.
-
-## Assets 🖼️
-
-Any additional assets like preview images are stored in the `/public/assets` folder. Feel free to replace `project-preview.svg` with an actual screenshot or GIF.
